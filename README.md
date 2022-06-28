@@ -1,1 +1,1 @@
-# PYTHON-SOZLUK-UYGULAMA
+python sözlük uygulaması https://medium.com/@01yildizmustafa
