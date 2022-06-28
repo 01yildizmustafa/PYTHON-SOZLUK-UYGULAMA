@@ -1,1 +1,3 @@
-python sözlük uygulaması https://medium.com/@01yildizmustafa
+# PYTHON-LISTE-UYGULAMA
+python liste uygulaması
+https://medium.com/@01yildizmustafa
